@@ -1,5 +1,5 @@
 def calculate_average(score1, score2, score3): 
-average = (score1 + score2 + score3) / 3 return average
+ average = (score1 + score2 + score3) / 3     return average
 
 number_of_students = int(input("How many students? "))
 
